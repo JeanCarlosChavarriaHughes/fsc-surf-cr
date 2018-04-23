@@ -1,0 +1,23 @@
+{
+  "name": "fsc-surf-cr",
+  "version": "1.0.0",
+  "description": "Mobile Application for Surf fans in Costa Rica. Federacion de Surf, FSC",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeanCarlosChavarriaHughes/fsc-surf-cr.git",
+    "start":"node server.js"
+  },
+  "keywords": [
+    "fsc"
+  ],
+  "author": "ImagineIng",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/JeanCarlosChavarriaHughes/fsc-surf-cr/issues"
+  },
+  "homepage": "https://github.com/JeanCarlosChavarriaHughes/fsc-surf-cr#readme"
+}
